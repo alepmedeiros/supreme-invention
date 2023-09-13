@@ -1,0 +1,12 @@
+Erro no evento: produto_change_event, JSON: {"nome_produto":"POLTRONA COSTELA CLASSE GOLD - teste"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/produto"
+
+Erro no evento: produto_change_event, JSON: {"nome_produto":"POLTRONA COSTELA CLASSE GOLD - teste"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/produto"
+
+Erro no evento: produto_change_event, JSON: {"nome_produto":"POLTRONA COSTELA CLASSE GOLD - teste"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/produto"
+
+Erro no evento: ordemproducaoitem_change_event, JSON: {"dt_orprod":"2023-08-23T00:00:00","qt_op_item":10.0000,"dt_entga_ordprod":"2023-08-23T00:00:00"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/service-order"
+
+Erro no evento: ordemproducaoitem_change_event, JSON: {"dt_orprod":"2023-08-23T00:00:00","qt_op_item":10.0000,"dt_entga_ordprod":"2023-08-23T00:00:00"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/service-order"
+
+Erro no evento: ordemproducaoitem_change_event, JSON: {"dt_orprod":"2023-08-23T00:00:00","qt_op_item":10.0000,"dt_entga_ordprod":"2023-08-23T00:00:00"}, mensagem excepton: Invalid URL: "localhost:63251/server-app/service-order"
+
